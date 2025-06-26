@@ -101,5 +101,3 @@ This exercise simulates the initial steps of professional risk assessment and bu
 ## Final Thoughts
 
 This task strengthened my foundational skills in vulnerability management and gave me insight into how enterprise security tools help reduce risk through automated detection and proactive remediation.
-
-> 🧠 *Cybersecurity is not a one-time action, but an ongoing process of identifying, understanding, and mitigating threats.*
