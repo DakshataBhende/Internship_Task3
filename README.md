@@ -1,4 +1,4 @@
-# Task 3: Vulnerability Assessment
+# Task 3: Basic Vulnerability Scan on Windows
 
 ## Overview
 
@@ -41,11 +41,10 @@ This exercise simulates the initial steps of professional risk assessment and bu
 ![Screenshot 2025-06-26 124254](https://github.com/user-attachments/assets/b37b7a69-22b9-42ec-a8c7-a4a08fba3995)
 - Accessed the Nessus web interface at `https://localhost:8834`.
 - Created a local Nessus user and initialized the plugin download.
-![Screenshot 2025-06-26 141328](https://github.com/user-attachments/assets/bc9b55a1-7311-456b-b950-157ab04c91ea)
 
 ### 2. Scan Configuration
 - Created a **New Scan** > Selected **Basic Network Scan**.
-![Screenshot 2025-06-26 143936](https://github.com/user-attachments/assets/1b21674a-615e-41e9-98d4-a19883b8999b)
+![image](https://github.com/user-attachments/assets/2b8f27f4-95ec-48cc-a172-5856f9847682)
 - Named the scan `New_Scan`.
 - Defined target IP as `192.168.31.182` to scan the host system.
 - Saved and launched the scan.
